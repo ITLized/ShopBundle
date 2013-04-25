@@ -8,3 +8,4 @@
 /composer.phar
 /.idea
 /.sonar
+.DS_Store
