@@ -2,7 +2,7 @@
     "name": "itlized/shop-bundle",
     "description": "The Shop bundle from ITLized.Com",
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-0": { "ITLized": "src/" }
     },
     "require": {
         "php": ">=5.3.3",
@@ -41,7 +41,7 @@
         "symfony-app-dir": "app",
         "symfony-web-dir": "web",
         "branch-alias": {
-            "dev-master": "2.2-dev"
+            "dev-master": "0.0-dev"
         }
     }
 }
