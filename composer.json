@@ -1,6 +1,6 @@
 {
-    "name": "symfony/framework-standard-edition",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "name": "itlized/shop-bundle",
+    "description": "The Shop bundle from ITLized.Com",
     "autoload": {
         "psr-0": { "": "src/" }
     },
