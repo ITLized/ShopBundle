@@ -1,6 +1,17 @@
 {
     "name": "itlized/shop-bundle",
     "description": "The Shop bundle from ITLized.Com",
+    "keywords": ["itlized","shop","bundle", "shop-bundle"],
+    "homepage": "https://github.com/ITLized/ShopBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Bui",
+            "email": "michael@itlized.com",
+            "homepage": "http://www.itlized.com",
+            "role": "Founder"
+        }
+    ],
     "autoload": {
         "psr-0": { "ITLized": "src/" }
     },
