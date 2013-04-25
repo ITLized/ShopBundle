@@ -5,5 +5,6 @@
 /build/
 /vendor/
 /bin/
-/.idea
 /composer.phar
+/.idea
+/.sonar
